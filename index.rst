@@ -1,2 +1,2 @@
-<title>MPOICSF Docs</title>
-<h1>MPOICSF</h1>
+MPOICSF Docs
+This Is The MPOICF Read The Docs Page
