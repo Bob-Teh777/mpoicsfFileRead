@@ -1,0 +1,6 @@
+forever(
+output 2 as 0
+wait 1
+output 2 as 1
+wait 1
+)
